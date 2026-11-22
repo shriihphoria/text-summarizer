@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.vscode/
+.env
+
+# Large or licensed files kept out of the repo
+saved_summary_model/
+results/
+*.csv
