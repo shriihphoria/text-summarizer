@@ -2,7 +2,7 @@
 
 Turn long conversations and messages into short summaries with a fine-tuned T5 model, served by a FastAPI backend and a clean web interface.
 
-![Demo]()
+!Demo: https://github.com/user-attachments/assets/ae888022-e66c-4fe6-9187-e5c535f575ca
 
 ## Overview
 
